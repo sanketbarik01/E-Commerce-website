@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React Shopping Cart Application
 
 ## Project Overview
@@ -65,3 +66,6 @@ Cart/
 ├── package-lock.json
 ├── README.md         
 └── vite.config.js       
+=======
+# E-Commerce-website
+>>>>>>> 9c7a119f714fdb218f2b383fbeabc5c42b673ce4
